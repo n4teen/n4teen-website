@@ -3,17 +3,6 @@
   "trailingSlash": false,
   "redirects": [
     {
-      "source": "/:path*",
-      "has": [
-        {
-          "type": "host",
-          "value": "www.n4teen.com"
-        }
-      ],
-      "destination": "https://n4teen.com/:path*",
-      "permanent": true
-    },
-    {
       "source": "/services",
       "destination": "/funding-readiness",
       "permanent": true
