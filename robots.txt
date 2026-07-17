@@ -1,0 +1,13 @@
+# https://n4teen.com robots
+User-agent: *
+Allow: /
+
+# Block the internal redirect stubs from being indexed as thin pages
+Disallow: /apply.html
+Disallow: /services.html
+Disallow: /business-credit-preparation.html
+Disallow: /funding-readiness-review.html
+Disallow: /readiness-review.html
+Disallow: /insights.html
+
+Sitemap: https://n4teen.com/sitemap.xml
